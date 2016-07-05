@@ -8,7 +8,7 @@ $(document).ready(function () {
 
             "key": "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",
             "subject": "New user",
-            "emailTo": "s.timofeyeva@dinamicka.com", //replace email!
+            "emailTo": "amitbaid@gettradefin.com", 
             "emailFrom": "info@dinamicka.com", 
             "html": '<strong> New user signed up! </strong> ' + 
                 '<p>Name: ' + $('#userName').val() + 
