@@ -28,7 +28,7 @@ body {
     max-width: 485px;
     margin: 0 auto;
     margin-top: 40px;
-    padding: 42px 60px;
+    padding: 40px 60px 22px;
     background: #fff;
     box-shadow: 0 1px 40px 0 rgba(0, 0, 0, 0.3);
     border-radius: 3px;
@@ -82,9 +82,10 @@ label {
 
 .btn:focus {
     outline: none; 
+	color: #ffffff;
 }
 .message-container {
-    margin-bottom: 120px;
+    margin-top: -15px;
 }
 
 h3 {
