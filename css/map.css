@@ -57,7 +57,7 @@ body {
     margin: -35px 20px 60px 20px;
 }
 
-h3 {
+h2,h3 {
     margin-top: 0;
     font-family: OpenSansSemibold;
 }
@@ -92,7 +92,7 @@ h3 {
 }
 
 .locations {
-    margin-right: 26px;
+    margin: 0 0 0 0;
 } 
 
 .second-part {
@@ -103,6 +103,11 @@ h3 {
     padding: 0 80px 0 80px;
     margin-top: 40px;
 }
+
+    .form-header h3 {
+     text-align:center;
+     margin: 40px 0 0 0;
+    }
 
 .field {
     margin-bottom: 20px;
@@ -186,8 +191,9 @@ textarea {
 
     .form-container {
         padding: 0;
-    } 
-    
+    }
+
+
     .message-container {
         margin-bottom: 30px; 
     }

@@ -8,8 +8,8 @@ $(document).ready(function () {
 
             "key": "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",
             "subject": "New user",
-            "emailTo": "amitbaid@gettradefin.com", 
-            "emailFrom": "info@dinamicka.com", 
+            "emailTo": "sales@tradefin.com",
+            "emailFrom": "sales@tradefin.com",
             "html": '<strong> New user signed up! </strong> ' + 
                 '<p>Name: ' + $('#userName').val() + 
                 '</p><p>Job: ' + $('#jobTitle').val() +
@@ -44,8 +44,7 @@ $(document).ready(function () {
     }
 
     $('#signup').on('submit', signupHandler); 
-
-
+    
 })
 
 
