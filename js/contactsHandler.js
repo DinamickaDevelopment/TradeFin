@@ -5,8 +5,8 @@ $(document).ready(function () {
         var dataadmin = JSON.stringify({
             "key": "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",
             "subject": "New message",
-            "emailTo": "moggeth@yandex.ru",
-            "emailFrom": "info@dinamicka.com",
+            "emailTo": "sales@tradefin.com",
+            "emailFrom": "sales@tradefin.com",
             "html": '<h2> New message! </h2>' +
                 '<h3>User details: </h3>' +
                 '<p>Name: ' + $('#userName').val() +
